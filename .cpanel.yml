@@ -10,3 +10,4 @@ deployment:
     # - /bin/cp package-lock.json $DEPLOYPATH
     # - /bin/cp package.json $DEPLOYPATH 
     - /bin/cp -R * $DEPLOYPATH
+
