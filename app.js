@@ -2,6 +2,7 @@ const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
 const cookieParser = require('cookie-parser');
+const jwt = require("jsonwebtoken")
 const logger = require('morgan');
 const expressLayouts = require('express-ejs-layouts'); 
 
